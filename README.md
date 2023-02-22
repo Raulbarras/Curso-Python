@@ -28,3 +28,19 @@ Dia1
    Notebook 03
     Condicionales
     Operadores de comparación
+Dia2
+  Notebook 04
+    A partir de una fuente de datos opensource en Kaggle hemos creado montado ETL. Extraído, procesado y cargado los datos en una BBDD (base de datos).
+  Notebook 05
+    Definir una función
+    Invocar a una función
+    Agumentos y parámetros
+  Notebook 06
+    Bucles
+    Repetir con while
+    Bucle Infinito
+    Continuar un bucle
+    Iterar con for
+    Generar secuencias de números
+    Bucles anidados
+  
