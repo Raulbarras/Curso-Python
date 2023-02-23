@@ -42,5 +42,12 @@ Dia2
     Continuar un bucle
     Iterar con for
     Generar secuencias de números
-    Bucles anidados
+    Bucles anidados.
+Dia3
+  M4 - 10 - Pandas
+    Ejercicios Pandas
+  Prophet
+    Predecir el valor de META
+  SpaceX - 1
+    predecir si un falcon 9 aterizará con éxito o no. Los datos serán recogidos mediante la API de SpaceX y nos aseguraremos de que siguen un formato adecuado para las     fases siguientes
   
