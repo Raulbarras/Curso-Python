@@ -50,4 +50,11 @@ Dia3
     Predecir el valor de META
   SpaceX - 1
     predecir si un falcon 9 aterizará con éxito o no. Los datos serán recogidos mediante la API de SpaceX y nos aseguraremos de que siguen un formato adecuado para las     fases siguientes
+Dia4
+  SpaceX - 2 
+    análisis de datos exploratorio en la búsqueda de patrones en los datos y así determinar que valores deberíamos usar para realizar predicciones en un futuro.
+  SpaceX - 3
+    Análisis de datos utilizando SQLy
+  SpaceX - 4
+    Realizar la visualización de datos y análizar los resultados para observar si coinciden con nuestros análisis anteriores.
   
